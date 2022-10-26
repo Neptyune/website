@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://neptyune.github.io/blog</id>
+    <title>Neptyune Blog</title>
+    <updated>2022-10-26T12:45:14.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://neptyune.github.io/blog"/>
+    <subtitle>Neptyune Blog</subtitle>
+    <icon>https://neptyune.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Introduction]]></title>
+        <id>intro</id>
+        <link href="https://neptyune.github.io/blog/intro"/>
+        <updated>2022-10-26T12:45:14.000Z</updated>
+        <summary type="html"><![CDATA[Out of this world developer team. Participating in hackathons and other challenges.]]></summary>
+        <content type="html"><![CDATA[<p>Out of this world developer team. Participating in hackathons and other challenges.</p><h1>Members</h1><h3 class="anchor anchorWithStickyNavbar_LWe7" id="atri-hegde">Atri Hegde<a class="hash-link" href="#atri-hegde" title="Direct link to heading">​</a></h3><p>First year undergrad studying Meng Software Engineering.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="annie-tse">Annie Tse<a class="hash-link" href="#annie-tse" title="Direct link to heading">​</a></h3><h3 class="anchor anchorWithStickyNavbar_LWe7" id="antosh-nikolak">Antosh Nikolak<a class="hash-link" href="#antosh-nikolak" title="Direct link to heading">​</a></h3><h3 class="anchor anchorWithStickyNavbar_LWe7" id="nick-michau">Nick Michau<a class="hash-link" href="#nick-michau" title="Direct link to heading">​</a></h3>]]></content>
+        <author>
+            <name>Atri Hegde</name>
+            <uri>https://hegdeatri.com</uri>
+        </author>
+        <category label="docusaurus" term="docusaurus"/>
+    </entry>
+</feed>

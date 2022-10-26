@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Neptyune Blog</title>
+        <link>https://neptyune.github.io/blog</link>
+        <description>Neptyune Blog</description>
+        <lastBuildDate>Wed, 26 Oct 2022 12:45:14 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Introduction]]></title>
+            <link>https://neptyune.github.io/blog/intro</link>
+            <guid>intro</guid>
+            <pubDate>Wed, 26 Oct 2022 12:45:14 GMT</pubDate>
+            <description><![CDATA[Out of this world developer team. Participating in hackathons and other challenges.]]></description>
+            <content:encoded><![CDATA[<p>Out of this world developer team. Participating in hackathons and other challenges.</p><h1>Members</h1><h3 class="anchor anchorWithStickyNavbar_LWe7" id="atri-hegde">Atri Hegde<a class="hash-link" href="#atri-hegde" title="Direct link to heading">​</a></h3><p>First year undergrad studying Meng Software Engineering.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="annie-tse">Annie Tse<a class="hash-link" href="#annie-tse" title="Direct link to heading">​</a></h3><h3 class="anchor anchorWithStickyNavbar_LWe7" id="antosh-nikolak">Antosh Nikolak<a class="hash-link" href="#antosh-nikolak" title="Direct link to heading">​</a></h3><h3 class="anchor anchorWithStickyNavbar_LWe7" id="nick-michau">Nick Michau<a class="hash-link" href="#nick-michau" title="Direct link to heading">​</a></h3>]]></content:encoded>
+            <category>docusaurus</category>
+        </item>
+    </channel>
+</rss>
