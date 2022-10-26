@@ -1,17 +1,23 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
+atree:
+  name: Atri Hegde
+  title: Group member
+  url: https://hegdeatri.com
   image_url: https://github.com/endiliey.png
 
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
+aknee:
+  name: Annie Tse
+  title: Group member
+  url: https://github.com/annietse
   image_url: https://github.com/yangshun.png
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
+anotni:
+  name: Antosh Nikolak
+  title: Group member
+  url: https://github.com/antoshNikolak
+  image_url: https://github.com/slorber.png
+
+kachow:
+  name: Nick Michau
+  title: Group member
+  url: https://github.com/NOM1989
   image_url: https://github.com/slorber.png
